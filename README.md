@@ -4,7 +4,7 @@
 
 # ClippingMini Community
 
-Welcome to the official community space for **ClippingMini** — your intelligent, multilingual bookmark and content curation platform.  
+Welcome to the official community space for **ClippingMini** your intelligent, multilingual bookmark and content curation platform.  
 Here, users, fans, and contributors can connect, share feedback, suggest features, report bugs, and stay updated.
 
 ---
