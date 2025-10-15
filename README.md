@@ -23,7 +23,7 @@ Here, users, fans, and contributors can connect, share feedback, suggest feature
 
 Check out our latest updates, improvements, and version history:
 
-🔗 [View Release Notes](https://github.com/clippingmini/community/releases)
+🔗 [View Release Notes](https://github.com/clippingmini/community/releases](https://github.com/hadxits/clippingmini-community/discussions/categories/release-notes)
 
 ---
 
