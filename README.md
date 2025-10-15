@@ -30,7 +30,7 @@ Check out our latest updates, improvements, and version history:
 ## 🛠️ Contribution & Feedback
 
 Want to help improve ClippingMini or have an idea?  
-Create a new [discussion](https://github.com/clippingmini/community/discussions) or join an existing one!
+Create a new [discussion](https://github.com/clippingmini/community/discussions/categories/general-discussion) or join an existing one!
 
 ---
 
